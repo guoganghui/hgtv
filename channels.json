@@ -1,0 +1,280 @@
+{
+  "channels": [
+    {
+      "id": "cctv1",
+      "name": "CCTV-1 综合",
+      "url": "https://tv.aixiaolu.tv/live/cctv1.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv2",
+      "name": "CCTV-2 财经",
+      "url": "https://tv.aixiaolu.tv/live/cctv2.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv3",
+      "name": "CCTV-3 综艺",
+      "url": "https://tv.aixiaolu.tv/live/cctv3.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv4",
+      "name": "CCTV-4 中文国际",
+      "url": "https://tv.aixiaolu.tv/live/cctv4.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv5",
+      "name": "CCTV-5 体育",
+      "url": "https://tv.aixiaolu.tv/live/cctv5.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv5plus",
+      "name": "CCTV-5+ 体育赛事",
+      "url": "https://tv.aixiaolu.tv/live/cctv5plus.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv6",
+      "name": "CCTV-6 电影",
+      "url": "https://tv.aixiaolu.tv/live/cctv6.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv7",
+      "name": "CCTV-7 国防军事",
+      "url": "https://tv.aixiaolu.tv/live/cctv7.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv8",
+      "name": "CCTV-8 电视剧",
+      "url": "https://tv.aixiaolu.tv/live/cctv8.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv9",
+      "name": "CCTV-9 纪录",
+      "url": "https://tv.aixiaolu.tv/live/cctv9.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv10",
+      "name": "CCTV-10 科教",
+      "url": "https://tv.aixiaolu.tv/live/cctv10.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv11",
+      "name": "CCTV-11 戏曲",
+      "url": "https://tv.aixiaolu.tv/live/cctv11.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv12",
+      "name": "CCTV-12 社会与法",
+      "url": "https://tv.aixiaolu.tv/live/cctv12.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv13",
+      "name": "CCTV-13 新闻",
+      "url": "https://tv.aixiaolu.tv/live/cctv13.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv14",
+      "name": "CCTV-14 少儿",
+      "url": "https://tv.aixiaolu.tv/live/cctv14.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv15",
+      "name": "CCTV-15 音乐",
+      "url": "https://tv.aixiaolu.tv/live/cctv15.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv16",
+      "name": "CCTV-16 奥林匹克",
+      "url": "https://tv.aixiaolu.tv/live/cctv16.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv17",
+      "name": "CCTV-17 农业农村",
+      "url": "https://tv.aixiaolu.tv/live/cctv17.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cctv4k",
+      "name": "CCTV-4K 超高清",
+      "url": "https://tv.aixiaolu.tv/live/cctv4k.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "cgtn",
+      "name": "CGTN 英语",
+      "url": "https://tv.aixiaolu.tv/live/cgtn.m3u8",
+      "group": "央视"
+    },
+    {
+      "id": "beijing",
+      "name": "北京卫视",
+      "url": "https://tv.aixiaolu.tv/live/beijing.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "tianjin",
+      "name": "天津卫视",
+      "url": "https://tv.aixiaolu.tv/live/tianjin.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "hebei",
+      "name": "河北卫视",
+      "url": "https://tv.aixiaolu.tv/live/hebei.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "shandong",
+      "name": "山东卫视",
+      "url": "https://tv.aixiaolu.tv/live/shandong.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "henan",
+      "name": "河南卫视",
+      "url": "https://tv.aixiaolu.tv/live/henan.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "shanghai",
+      "name": "东方卫视",
+      "url": "https://tv.aixiaolu.tv/live/shanghai.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "jiangsu",
+      "name": "江苏卫视",
+      "url": "https://tv.aixiaolu.tv/live/jiangsu.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "zhejiang",
+      "name": "浙江卫视",
+      "url": "https://tv.aixiaolu.tv/live/zhejiang.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "anhui",
+      "name": "安徽卫视",
+      "url": "https://tv.aixiaolu.tv/live/anhui.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "hunan",
+      "name": "湖南卫视",
+      "url": "https://tv.aixiaolu.tv/live/hunan.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "hubei",
+      "name": "湖北卫视",
+      "url": "https://tv.aixiaolu.tv/live/hubei.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "guangdong",
+      "name": "广东卫视",
+      "url": "https://tv.aixiaolu.tv/live/guangdong.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "shenzhen",
+      "name": "深圳卫视",
+      "url": "https://tv.aixiaolu.tv/live/shenzhen.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "guangxi",
+      "name": "广西卫视",
+      "url": "https://tv.aixiaolu.tv/live/guangxi.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "hainan",
+      "name": "海南卫视",
+      "url": "https://tv.aixiaolu.tv/live/hainan.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "chongqing",
+      "name": "重庆卫视",
+      "url": "https://tv.aixiaolu.tv/live/chongqing.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "sichuan",
+      "name": "四川卫视",
+      "url": "https://tv.aixiaolu.tv/live/sichuan.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "guizhou",
+      "name": "贵州卫视",
+      "url": "https://tv.aixiaolu.tv/live/guizhou.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "yunnan",
+      "name": "云南卫视",
+      "url": "https://tv.aixiaolu.tv/live/yunnan.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "shaanxi",
+      "name": "陕西卫视",
+      "url": "https://tv.aixiaolu.tv/live/shaanxi.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "gansu",
+      "name": "甘肃卫视",
+      "url": "https://tv.aixiaolu.tv/live/gansu.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "qinghai",
+      "name": "青海卫视",
+      "url": "https://tv.aixiaolu.tv/live/qinghai.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "ningxia",
+      "name": "宁夏卫视",
+      "url": "https://tv.aixiaolu.tv/live/ningxia.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "xinjiang",
+      "name": "新疆卫视",
+      "url": "https://tv.aixiaolu.tv/live/xinjiang.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "fujian",
+      "name": "福建卫视",
+      "url": "https://tv.aixiaolu.tv/live/fujian.m3u8",
+      "group": "卫视"
+    },
+    {
+      "id": "jiangxi",
+      "name": "江西卫视",
+      "url": "https://tv.aixiaolu.tv/live/jiangxi.m3u8",
+      "group": "卫视"
+    }
+  ]
+}
