@@ -21,7 +21,10 @@ jobs:
           flutter-version: '3.24.0'
           channel: 'stable'
           cache: true
-      
+      cd /home/admin/openclaw/workspace/temp-hgtv
+git add .github/workflows/main.yml
+git commit -m "简化 CI: 移除 analyze 步骤，测试失败不阻止构建"
+git push
       - name: Get dependencies
         run: flutter pub get
       
